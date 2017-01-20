@@ -1,4 +1,2 @@
 a = 1
-if a
-  puts "voov"
-end
+puts 'voov' if a
